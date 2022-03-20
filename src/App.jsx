@@ -9,7 +9,7 @@ function App() {
       <div className="lista-compras-container">
         <ul className="lista-items">
           <li>Queijo!</li>
-          <li>Leite</li>
+          <li>Leite!</li>
           <li>Pão</li>
         </ul>
       </div>
